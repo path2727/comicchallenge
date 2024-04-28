@@ -1,6 +1,8 @@
 
 
-This project uses:
+# This project uses:
+
+
 
 Retrofit
 Hilt
@@ -8,6 +10,8 @@ Coil
 Jackson (JSON parser)
 Jetpack Compose
 
+
+# Keys
 
 You can add your developer.marvel.com keys to com.example.comicchallenge2.Keys.
 
